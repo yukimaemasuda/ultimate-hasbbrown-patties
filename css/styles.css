@@ -107,11 +107,6 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	color: #ff858d;
 }
 
-p .links {
-	color:#ebbab9;
-	text-decoration: underline;
-}
-
 h1, h2, h3 {
 	font-family: 'Playfair Display', sans-serif;
 	color: #272727;
@@ -131,6 +126,18 @@ h3 {
 
 p {
 	margin-bottom: 18px;
+}
+
+a.links {
+    color: #ebbab9;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a.links:hover {
+    color: #698996;
+    text-decoration: underline; 
 }
 
 /* layout */
