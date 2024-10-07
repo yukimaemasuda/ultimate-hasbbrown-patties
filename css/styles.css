@@ -104,12 +104,12 @@ header h2 { /* 40px is 2.083%  of 1920px */
 }
 
 .shine {  /*  Call to action color  */
-	color: #557763;
+	color: #ff858d;
 }
 
 h1, h2, h3 {
 	font-family: 'Architects Daughter', cursive;
-	color: #427ac1;
+	color: #272727;
 }
 
 h2, h3 {
@@ -136,7 +136,7 @@ nav {
 }
 
 .w3-bar-item:link, .w3-bar-item:visited {
-	color:#427ac1;
+	color:#272727;
 	text-decoration: none;
 }
 
@@ -234,7 +234,7 @@ footer a:hover, a:active {
 }
 
 /* -- Code for the Cookie Compliance popover window -- */
-/*
+
 #cookiePopup {
   background-color: #ffffff;
   position: absolute;
@@ -279,7 +279,7 @@ footer a:hover, a:active {
   visibility: visible;
  
 }
-*/
+
 /* -- End of Code for the Cookie Compliance popover window -- */
 
 @media only screen and  (min-width:900px) {
