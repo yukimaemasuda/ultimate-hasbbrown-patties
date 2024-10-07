@@ -107,7 +107,7 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	color: #ff858d;
 }
 
-.links {
+p .links {
 	color:#ebbab9;
 	text-decoration: underline;
 }
