@@ -107,6 +107,11 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	color: #ff858d;
 }
 
+a .shine {
+	color:#ebbab9;
+	text-decoration: none;
+}
+
 h1, h2, h3 {
 	font-family: 'Playfair Display', sans-serif;
 	color: #272727;
@@ -224,12 +229,12 @@ footer ol li {
 }
 
 footer a:link, a:visited {
-	color:#ebbab9;
+	color:#fff;
 	text-decoration: none;
 }
 
 footer a:hover, a:active {
-	color: #698996;
+	color: #f8f2f2;
 	text-decoration: underline;
 }
 
