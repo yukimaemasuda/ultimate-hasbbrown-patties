@@ -237,7 +237,7 @@ footer a:hover, a:active {
 
 #cookiePopup {
   background-color: #ffffff;
-  position: sticky;
+  position: absolute;
   left: 5%;
   bottom: 0;
   font-size: 14px;
