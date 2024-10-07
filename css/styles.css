@@ -236,12 +236,12 @@ footer ol li {
 }
 
 footer a:link, a:visited {
-	color:#c06c84;
+	color:#3e4c4b;
 	text-decoration: none;
 }
 
 footer a:hover, a:active {
-	color: #3e4c4b;
+	color: #c06c84;
 	text-decoration: underline;
 }
 
