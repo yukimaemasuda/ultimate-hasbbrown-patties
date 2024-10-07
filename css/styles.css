@@ -107,12 +107,12 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	color: #ff858d;
 }
 
-.shine a:hover, a:active {
+.links a:hover, a:active {
 	color:#ebbab9;
 	text-decoration: underline;
 }
 
-.shine a:link, a:visited {
+.links a:link, a:visited {
 	color: #698996;
 	text-decoration: none;
 }
