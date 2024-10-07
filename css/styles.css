@@ -1,6 +1,6 @@
 
 body {
-	font-family: 'Murecho', sans-serif;
+	font-family: 'Roboto Slab', sans-serif;
 	color: #666;
 	font-size: 18px;
 	line-height: 1.5;
@@ -108,7 +108,7 @@ header h2 { /* 40px is 2.083%  of 1920px */
 }
 
 h1, h2, h3 {
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Playfair Display', sans-serif;
 	color: #272727;
 }
 
