@@ -9,17 +9,22 @@
 
 <url>
   <loc>https://ultimate-hashbrown-patties.netlify.app/</loc>
-  <lastmod>2024-10-10T02:13:18+00:00</lastmod>
+  <lastmod>2024-10-26T02:25:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://ultimate-hashbrown-patties.netlify.app/recipes</loc>
+  <lastmod>2024-10-26T02:25:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://ultimate-hashbrown-patties.netlify.app/license.txt</loc>
-  <lastmod>2024-10-10T02:13:18+00:00</lastmod>
+  <lastmod>2024-10-26T02:25:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ultimate-hashbrown-patties.netlify.app/privacy-policy.txt</loc>
-  <lastmod>2024-10-10T02:13:18+00:00</lastmod>
+  <lastmod>2024-10-26T02:25:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
