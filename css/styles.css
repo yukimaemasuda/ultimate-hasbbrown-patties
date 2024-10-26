@@ -249,7 +249,7 @@ footer a:hover, a:active {
 
 #cookiePopup {
   background-color: #ffffff;
-  position: absolute;
+  position: fixed;
   left: 5%;
   bottom: 0;
   font-size: 14px;
@@ -262,6 +262,7 @@ footer a:hover, a:active {
   padding: 2em 1.4em;
   border-radius: 6px;
   transition: all 0.5s ease-in-out;
+  z-index: 1000;
 }
 
 #cookiePopup p {
