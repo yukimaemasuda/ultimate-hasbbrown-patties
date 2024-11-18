@@ -1,0 +1,18 @@
+*/ TEAM */
+Web Developer: Yuki Masuda
+Web Design:
+Content Creation: 
+SEO:
+Social Media:
+
+*/ THANKS */
+Images are by Pixabay
+
+
+*/ TOOLS */
+HTML5, CSS3, JavaScript, JSON, XML
+VS-Code, Squoosh, Wordtracker, Generation, Illustrator, Adobe Photoshop
+
+Testing: Validation, Lighthouse, Screaming Frog
+
+Built on a MSI Prestige 14.
