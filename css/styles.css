@@ -366,3 +366,9 @@ h3 {
     font-size: 0.9rem;
     color: #555;
 }
+
+.image-uniform {
+	width: 300px;
+	height: auto;
+	object-fit: cover;
+  }
