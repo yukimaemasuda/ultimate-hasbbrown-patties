@@ -351,11 +351,6 @@ h3 {
     background-color: #fff;
 }
 
-.card .image-container img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px 8px 0 0;
-}
 
 .card h3 {
     margin-top: 10px;
