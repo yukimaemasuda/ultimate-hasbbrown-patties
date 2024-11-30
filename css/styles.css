@@ -331,3 +331,38 @@ h3 {
 		margin-left: 10%;
 	}
 }
+
+.card-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card {
+    flex: 1 1 calc(33.333% - 20px); /* Adjust for 3 cards in a row */
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.card .image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+}
+
+.card h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+.card p {
+    font-size: 0.9rem;
+    color: #555;
+}
